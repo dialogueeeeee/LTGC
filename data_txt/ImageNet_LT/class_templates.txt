@@ -1,0 +1,12 @@
+15:A photo of the class American robin with rust-colored breast, sleek gray back and wings, and a distinctive white ring around the eye.
+17:A photo of the class jay with {a crest atop their head}{brilliant blue and white plumage}{a loud, varied call}.
+38:A photo of the class banded gecko with distinctive bands across the body, small granular scales, and vertical pupils.
+41:A photo of the class desert grassland whiptail lizard with long, slender bodies; bright blue tails in juveniles that fade as they become adults; distinctive black, white, and brown patterns along their backs; and all-female populations that reproduce through parthenogenesis.
+56:A photo of the class kingsnake with vibrant color patterns, smooth scales, and a robust, muscular body.
+58:A photo of the class water snake with a sleek body, distinctive patterning, semi-aquatic habits, keeled scales, and a non-venomous bite.
+65:A photo of the class sea snake with smooth, elongated bodies, paddle-shaped tails for swimming, and the ability to breath through their skin for prolonged underwater stays.
+73:A photo of the class barn spider with patterned abdomen, large size, and distinctive web structure.
+79:A photo of the class centipede with elongated, flattened bodies, numerous pairs of legs (one pair per body segment), segmented bodies, venomous claws (forcipules), and antenna.
+87:A photo of the class grey parrot with a strikingly bright red tail, an intelligent gaze, a curved black beak, and a charmingly patterned grey feathered coat.
+94:A photo of the class hummingbird with iridescent feathers, rapid wing beats, and hovering flight capabilities.
+100:A photo of the class black swan with jet-black feathers, a striking red bill, and a gracefully curved neck.
